@@ -1,4 +1,4 @@
 #!/bin/bash
 
 javac ./HelloWorld.java
-javap HelloWorld > sample.txt
+javap -v HelloWorld > sample.txt
